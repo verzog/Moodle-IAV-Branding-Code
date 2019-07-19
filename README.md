@@ -1,4 +1,4 @@
-# MOODLE-IAV-BRANDING-CODE
+# MOODLE-Images-And-Video-BRANDING-CODE
 This code was sourced from https://codepen.io/dudleystorey/pen/PZyMrd 
 
 Note that I had to add the following &mute=1 to his code because YouTube blocks audio from autoplaying.
